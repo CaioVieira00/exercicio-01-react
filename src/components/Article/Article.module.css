@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    margin-bottom: 50px;
+    align-items: flex-start;
+}
+
+.container img {
+    margin-right: 30px;
+}
+
+.articleInfo h2 {
+    margin-top: 0;
+}

@@ -1,0 +1,18 @@
+.header {
+    background: #ccc;
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerNavigation {
+    width: 300px;
+}
+
+.headerNavigation ul {
+    list-style: none;
+}
+
+.headerNavigation ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
